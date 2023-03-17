@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=B1-1
+Removed Pin From Net: NetName=BUZZER Pin=H9-15
+Removed Pin From Net: NetName=RX Pin=H9-19
+Removed Pin From Net: NetName=TX Pin=H9-20
+Add Pin To Net: Unknown Pin: Pin B1-
+Added Pin To Net: NetName=BUZZER Pin=H9-12
+Added Pin To Net: NetName=RX Pin=H9-14
+Added Pin To Net: NetName=TX Pin=H9-15
+Added Room: Name=4006_Shield_Kart_Sematik
